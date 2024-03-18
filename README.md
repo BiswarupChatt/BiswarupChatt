@@ -18,6 +18,7 @@ Greetings! I'm actively seeking opportunities as a **MERN Stack Developer**. Wit
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Express Validator](https://img.shields.io/badge/-Express%20Validator-000000?logo=node.js&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-47A248?logo=mongoose&logoColor=white)
+[![Axios](https://img.shields.io/badge/-Axios-61dafb?logo=axios&logoColor=white)](https://github.com/axios/axios)
 
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
