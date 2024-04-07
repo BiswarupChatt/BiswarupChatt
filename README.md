@@ -34,6 +34,16 @@ As an aspiring MERN Stack Developer, I bring a unique blend of skills and qualit
 ### 🚀 Technical Expertise:
 My proficiency in the MERN stack, combined with a background in graphic design, equips me to create innovative and impactful solutions. With hands-on experience in building web applications, I am adept at translating design concepts into functional and visually appealing interfaces.
 
+### 💻 Top Languages: 
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-12 col-md-6">
+      <p class="text-center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=biswarupchatt&show_icons=true&locale=en&layout=compact" alt="biswarupchatt" /></p>
+    </div>
+  </div>
+</div>
+
 ### 📚 Continuous Learning:
 I am committed to continuous learning and staying updated with the latest technologies and trends in web development. I actively seek out opportunities to expand my skillset and adapt to evolving industry standards, ensuring that I can contribute effectively to any project.
 
